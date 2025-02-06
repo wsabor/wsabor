@@ -1,28 +1,43 @@
-# Wagner Sabor
+# 👋 Olá, eu sou o Wagner!
 
-✋ Olá! Meu nome é Wagner, sou formado em TI pela FATEC SBC, já fiz alguns projetos e no momento estou me aperfeiçoando no Bootcamp da DIO com foco em Java e Backend, áreas que gosto bastante e pretendo me especializar cada vez mais!
+## 🚀 Sobre mim
 
-Sou apaixonado por tecnologia e desenvolvimento, áreas que pretendo expolorar tanto profissionalmente quanto pessoalmente.
+Sou Instrutor do **Curso Técnico em Desenvolvimento de Sistemas** no **SENAI-SP**, onde ensino e oriento alunos na construção de soluções tecnológicas inovadoras. Tenho ampla experiência em **JavaScript, Node.js, Express** e **desenvolvimento web**, além de um grande interesse em **Inteligência Artificial Generativa** e **impressão 3D**.
 
-## Conecte-se comigo
+Minha missão é transformar conhecimento em prática, ajudando meus alunos a desenvolverem projetos reais e aplicáveis, utilizando metodologias clássicas e ágeis de desenvolvimento de software. 🚀
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/wsaborjr/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:wsabor@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/wsabor/)
+---
 
-## Habilidades
+## 🎯 Minhas Especialidades
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8)
-![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wsabor)
+- **Desenvolvimento Web**: JavaScript (Node.js, Express, React)
+- **Banco de Dados**: MySQL, MongoDB
+- **Metodologias de Desenvolvimento**: Clássica e Ágil
+- **Inteligência Artificial**: Aplicações com APIs de IA Generativa
+- **Impressão 3D**: Modelagem e prototipagem
+- **Educação e Mentoria**: Formação e orientação de futuros desenvolvedores
 
-## GitHub Stats
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wsabor&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wsabor&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+## 📌 Conquistas & Projetos com Alunos
+
+- **🎓 Projetos de Integração SESI/SENAI**: Desenvolvimento de sites e animações em 2D para apresentação de resultados acadêmicos.
+- **📱 Aplicativo de Saúde e Bem-estar**: Desenvolvimento utilizando metodologia ágil.
+- **🛒 Plataforma de E-Commerce para Pequenos Negócios**: Aplicando metodologia clássica de desenvolvimento.
+- **📚 Curso de Inteligência Artificial Generativa**: Estruturado em 10 aulas para ensinar IA de forma prática e acessível.
+
+---
+
+## 📢 Onde me encontrar
+
+- **GitHub**: [github.com/seu-usuario](https://github.com/seu-usuario)
+- **LinkedIn**: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+- **E-mail**: [seu-email@email.com](mailto:seu-email@email.com)
+
+---
+
+## 🚀 Vamos construir juntos?
+
+Se você se interessa por **desenvolvimento web**, **inteligência artificial** ou **educação**, vamos conversar! Adoro colaborar e criar projetos inovadores que fazem a diferença.
+
+> **“A melhor maneira de aprender é ensinando” – Cícero.**
