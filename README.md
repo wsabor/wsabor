@@ -40,7 +40,7 @@ Minha missão é transformar conhecimento em prática, ajudando meus alunos a de
 
 - **🎓 Projetos de Integração SESI/SENAI**: Desenvolvimento de sites e animações em 2D para apresentação de resultados acadêmicos.
 - **📱 Aplicativo de Saúde e Bem-estar**: Desenvolvimento utilizando metodologia ágil.
-- **🛒 Plataforma de E-Commerce para Pequenos Negócios**: Aplicando metodologia clássica de desenvolvimento.
+- **🛒 Plataforma de E-Commerce para Pequenos Negócios**: Aplicando metodologia clássica de desenvolvimento. 
 
 ---
 
