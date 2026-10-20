@@ -10,9 +10,9 @@
   <a href="https://wsabor.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=6366F1&center=true&vCenter=true&width=520&lines=Next.js+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+Node.js;Do+Figma+ao+deploy;Formando+devs+no+SENAI-SP;Sistemas+que+eu+mesmo+hospedo" alt="Next.js, React, TypeScript, Node.js"></a>
 </p>
 
-> Desenvolvedor web vindo do design gráfico e instrutor no Curso Técnico em Desenvolvimento de Sistemas do SENAI-SP. Construo aplicações completas com Next.js, React e Node.js, da interface ao servidor, e uso esses mesmos projetos para ensinar.
->
-> <sub>🇺🇸 Web developer and software development instructor in São Paulo, Brazil. Designer turned developer, building full-stack apps with TypeScript, React and Node.js.</sub>
+Desenvolvedor web vindo do design gráfico e instrutor no Curso Técnico em Desenvolvimento de Sistemas do SENAI-SP. Construo aplicações completas com Next.js, React e Node.js, da interface ao servidor, e uso esses mesmos projetos para ensinar.
+
+> 🇺🇸 _Web developer and software development instructor in São Paulo, Brazil. Designer turned developer, building full-stack apps with TypeScript, React and Node.js._
 
 ## Sobre mim
 
@@ -29,9 +29,13 @@ No SENAI-SP formo técnicos em Desenvolvimento de Sistemas. Levo para a sala o q
 - 🤖 IA generativa no dia a dia de desenvolvimento e na preparação de aulas
 - 🖨️ Nas horas vagas, impressão 3D com uma Ender 3 V3 SE
 
+> 🇺🇸 _Started in graphic design, laying out books, magazines and newspapers, and moved into tech in 2011, later earning a degree in IT for Business at FATEC. Today I teach Systems Development at SENAI-SP and bring the tools from my own projects into the classroom. On the side: generative AI and 3D printing._
+
 <br clear="right">
 
 ## Destaques
+
+> 🇺🇸 _2nd place at Hackathon Agrotech 2025, mentoring a team of nine students, and five Microsoft Fundamentals certifications (Azure, AI, Data, Security and Power Platform)._
 
 <table>
   <tr>
@@ -57,6 +61,8 @@ No SENAI-SP formo técnicos em Desenvolvimento de Sistemas. Levo para a sala o q
 </p>
 
 ## Projetos
+
+> 🇺🇸 _Selected work: my website and blog, a PPE inventory system, a scroll-driven landing page study, an exam-prep quiz built with students, a focus app with generated ambient sound and a QR code generator PWA._
 
 <table>
   <tr>
@@ -111,6 +117,8 @@ No SENAI-SP formo técnicos em Desenvolvimento de Sistemas. Levo para a sala o q
 
 ### Para clientes e para a escola
 
+> 🇺🇸 _Client and school work: a bilingual corporate website and a platform for running mock exams in class._
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -137,34 +145,17 @@ Material e projetos que uso com as turmas do técnico, abertos para quem quiser 
 - 🛡️ [squid](https://github.com/wsabor/squid): proxy em modo whitelist para o laboratório, pronto para outras unidades adaptarem
 - 📊 [sistema-notas](https://github.com/wsabor/sistema-notas): cálculo de médias e classificação de alunos em C++, no terminal
 
+> 🇺🇸 _Course material and projects I use with my students, open for anyone to study or adapt: back-end exercises, a REST API for email notifications, a whitelist proxy for the school lab and a C++ grading app._
+
 ## Stack
 
-<table>
-  <tr>
-    <td><b>Front-end</b></td>
-    <td><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,vite" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, HTML, CSS, Vite"></td>
-  </tr>
-  <tr>
-    <td><b>Back-end</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js, Express"></td>
-  </tr>
-  <tr>
-    <td><b>Dados</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" alt="PostgreSQL, MySQL, MongoDB, Firebase"></td>
-  </tr>
-  <tr>
-    <td><b>Infra</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,vercel,githubactions,git" alt="Docker, Linux, Ubuntu, Vercel, GitHub Actions, Git"></td>
-  </tr>
-  <tr>
-    <td><b>Design</b></td>
-    <td><img src="https://skillicons.dev/icons?i=figma" alt="Figma"></td>
-  </tr>
-</table>
+> 🇺🇸 _Tools I use day to day, from the interface to the deploy._
 
-Também trabalho com **React Native** nos apps mobile das turmas.
+<img src="assets/stack.svg" alt="Stack: TypeScript, JavaScript, React, Next.js, Tailwind, HTML, CSS, Vite, Node.js, Express, PostgreSQL, MySQL, MongoDB, Firebase, Figma, Docker, Linux, Ubuntu, Vercel, GitHub Actions, Git e React Native" width="100%">
 
 ## Atividade
+
+> 🇺🇸 _Contribution streak and most used languages._
 
 <p align="center">
   <picture>
@@ -176,8 +167,3 @@ Também trabalho com **React Native** nos apps mobile das turmas.
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wsabor&layout=compact&langs_count=6&hide_border=true&title_color=6366F1&custom_title=Linguagens%20mais%20usadas" alt="Linguagens mais usadas" height="170">
   </picture>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wsabor/wsabor/output/github-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/wsabor/wsabor/output/github-snake.svg" alt="Cobrinha percorrendo o gráfico de contribuições" width="100%">
-</picture>
